@@ -1,0 +1,1 @@
+SELECT * FROM inscripciones WHERE nota >= 7 AND nota < 9

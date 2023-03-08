@@ -1,0 +1,1 @@
+SELECT DISTINCT matricula FROM inscripciones

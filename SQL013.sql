@@ -1,0 +1,1 @@
+SELECT * FROM northwind.orders WHERE payment_type IS NULL

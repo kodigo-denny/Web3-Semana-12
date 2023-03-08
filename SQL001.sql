@@ -1,0 +1,1 @@
+SELECT matricula AS "ID", nombre, direccion FROM alumnos WHERE matricula=1

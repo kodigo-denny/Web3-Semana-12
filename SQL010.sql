@@ -1,0 +1,1 @@
+SELECT * FROM inscripciones ORDER BY num_materia, nota DESC
