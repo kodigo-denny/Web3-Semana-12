@@ -1,0 +1,1 @@
+SELECT category, AVG(list_price), MIN(list_price), MAX(list_price), SUM(list_price), COUNT(*) FROM products GROUP BY category

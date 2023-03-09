@@ -1,0 +1,1 @@
+SELECT AVG(list_price) FROM products WHERE category="Beverages"

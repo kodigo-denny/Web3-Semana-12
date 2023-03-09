@@ -1,0 +1,1 @@
+SELECT * FROM carreras AS c LEFT OUTER JOIN alumnos AS a ON a.no_carrera=c.no_carrera
